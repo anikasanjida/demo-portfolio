@@ -36,3 +36,8 @@ h1{
     padding: 10px 40px;
     border-radius: 5px;
 }
+.circle-ban{
+    background-image: url(images/pic1.jpg);
+    background-repeat: no-repeat;
+
+}
