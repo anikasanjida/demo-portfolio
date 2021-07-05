@@ -1,0 +1,38 @@
+body{
+    
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    
+}
+h1{
+    font-size: 50px;
+    
+}
+/* h2{
+    font-size: 40%;
+} */
+
+.blue-color{
+    color: deepskyblue;
+}
+.intro{
+    width: 45%;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.intro img{
+    width: 80%;
+}
+.container-fly{
+    display: flex;
+    margin-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(blue,cyan) ;
+    color: white;
+    font: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
